@@ -11,7 +11,7 @@ Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma 
 1° Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente.
 
     //Inicializar o Git LFS
-    git lfs install
+    git lfs install 
 
     //Rastrear a pasta "libary" e "assets"
     git lfs track "libary/*"
