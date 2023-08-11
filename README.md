@@ -2,11 +2,14 @@
 
 Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma grande quantidade de animações, explosões exageradas, muitos elementos em tela e grandes inimigos. O game também conta com seu estilo de humor que torna até as mortes dos inimigos um pouco cômicas.
 
-    OBS: Ao enviar todo os arquivos desse projeto, acabou excedendo o limite de tamanho de arquivo definido pelo GitHub. O GitHub impõe um limite de tamanho de arquivo de 100 MB para repositórios Git.
+    OBS: Ao enviar todo os arquivos desse projeto, acabou excedendo o limite de tamanho de arquivo definido pelo GitHub. 
+         O GitHub impõe um limite de tamanho de arquivo de 100 MB para repositórios Git.
 
-    Para resolver esse problema, usei o Git LFS (Git Large File Storage): O Git LFS é uma extensão do Git que permite armazenar arquivos grandes em servidores externos, como o próprio Git LFS ou serviços de armazenamento em nuvem. 
+    Para resolver esse problema, usei o Git LFS (Git Large File Storage): O Git LFS é uma extensão do Git que permite armazenar 
+    arquivos grandes em servidores externos, como o próprio Git LFS ou serviços de armazenamento em nuvem. 
 
-    Vou fornecer um exemplo de como foi usado o Git LFS para a pasta "Libary" e "Assets" nesse projeto, juntamente com um exemplo de texto, instruindo as pessoas a instalarem as bibliotecas necessárias e configurarem a pasta "Libary" e "Assets".
+    Vou fornecer um exemplo de como foi usado o Git LFS para a pasta "Libary" e "Assets" nesse projeto, 
+    juntamente com um exemplo de texto, instruindo as pessoas a instalarem as bibliotecas necessárias e configurarem a pasta "Libary" e "Assets".
 
 1° Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente. 
 
