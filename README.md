@@ -9,7 +9,7 @@ Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma 
     arquivos grandes em servidores externos, como o próprio Git LFS ou serviços de armazenamento em nuvem. 
 
     Vou fornecer um exemplo de como foi usado o Git LFS para a pasta "Libary" e "Assets" nesse projeto, 
-    juntamente com um exemplo de texto, instruindo as pessoas a instalarem as bibliotecas necessárias e configurarem a pasta "Libary" e "Assets".
+    juntamente com um exemplo de texto, instruindo as pessoas a instalarem as bibliotecas necessárias e configurarem a pasta "Libary" e "Assets". 
 
 1° Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente. 
 
