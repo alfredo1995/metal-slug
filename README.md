@@ -17,7 +17,7 @@ Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma 
     git lfs install 
 
     //Rastrear a pasta "libary" e "assets"
-    git lfs track "libary/*"
+    git lfs track "libary/*" 
     git lfs track "Assets/*"
     
 2° Este é o meu projeto incrível que requer algumas bibliotecas para funcionar corretamente. Siga as etapas abaixo:
