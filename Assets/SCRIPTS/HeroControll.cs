@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-
-
 public class HeroControll : CLASSEPAI_HERO {
 
     [Header("Variaveis do Player")]
