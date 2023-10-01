@@ -34,7 +34,7 @@ public class MoveBala : MonoBehaviour {
 		Move ();
 
 		/*if(transform.position.x > lf.position.x || transform.position.x < lt.position.x)
-		{
+		{ 
 			Destroy (gameObject);
 		}*/
 
