@@ -1,17 +1,17 @@
 # MetalSlug
 
-Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma grande quantidade de animações, explosões exageradas, muitos elementos em tela e grandes inimigos. O game também conta com seu estilo de humor que torna até as mortes dos inimigos um pouco cômicas.
+This game is capable of storing and displaying a lot of information simultaneously. A large amount of animations, exaggerated explosions, many on-screen elements and large enemies. The game also has its style of humor that makes even the deaths of enemies a little comical.
 
-    OBS: Ao enviar todo os arquivos desse projeto, acabou excedendo o limite de tamanho de arquivo definido pelo GitHub. O GitHub impõe um limite de tamanho de arquivo de 100 MB para repositórios Git.
+     NOTE: When uploading all the files for this project, you ended up exceeding the file size limit defined by GitHub. GitHub imposes a 100 MB file size limit for Git repositories.
 
-    Para resolver esse problema, usei o Git LFS (Git Large File Storage):  
-    O Git LFS é uma extensão do Git que permite armazenar 
-    arquivos grandes em servidores externos, como o próprio Git LFS ou serviços de armazenamento em nuvem. 
+     To solve this problem, I used Git LFS (Git Large File Storage):
+     Git LFS is a Git extension that allows you to store
+     large files on external servers, such as Git LFS itself or cloud storage services.
 
-    Vou fornecer um exemplo de como foi usado o Git LFS para a pasta "Libary" e "Assets" nesse projeto, 
-    juntamente com um exemplo de texto, instruindo as pessoas a instalarem as bibliotecas necessárias e configurarem a pasta "Libary" e "Assets". 
+     I will provide an example of how Git LFS was used for the "Libary" and "Assets" folder in this project,
+     along with sample text instructing people to install the necessary libraries and configure the "Libary" and "Assets" folder.
 
-1° Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente. 
+1st I configured Git LFS to track the files in the "libary", "assets" folder and store them externally.
 
     //Inicializar o Git LFS
     git lfs install 
@@ -20,29 +20,29 @@ Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma 
     git lfs track "libary/*" 
     git lfs track "Assets/*"
     
-2° Este é o meu projeto incrível que requer algumas bibliotecas para funcionar corretamente. Siga as etapas abaixo:
+2° This is my amazing project that requires some libraries to work properly. Follow the steps below:
 
-    ## Pré-requisitos
+## Prerequisites
 
-    Certifique-se de ter as seguintes bibliotecas instaladas em seu sistema:
+     Make sure you have the following libraries installed on your system:
 
-    - Biblioteca Assets
-    - Biblioteca Libary
+     - Assets Library
+     - Libary Library
 
-    ## Configuração da pasta "Libary"
+     ## Configuration of the "Libary" folder
 
-    1. Clone este repositório em seu sistema.
-    2. Navegue até a pasta "libary" do projeto: `cd Libary`.
-    3. Instale as dependências da pasta "libary" executando o seguinte comando: `npm install` (ou use o gerenciador de pacotes apropriado).
+     1. Clone this repository to your system.
+     2. Navigate to the project's "libary" folder: `cd Libary`.
+     3. Install the dependencies from the "libary" folder by running the following command: `npm install` (or use the appropriate package manager).
 
-    ## Executando o projeto
+     ## Running the project
 
-    Agora que você instalou as bibliotecas necessárias e configurou a pasta "Libary", você está pronto para executar o projeto. Siga as etapas abaixo:
+     Now that you have installed the necessary libraries and configured the "Libary" folder, you are ready to run the project. Follow the steps below:
 
-    1. Abra o terminal e navegue até a raiz do projeto.
-    2. Execute o comando `npm start` para iniciar o projeto.
+     1. Open the terminal and navigate to the project root.
+     2. Run the `npm start` command to start the project.
 
-    Isso é tudo! Repita o procedimento para a pasta "Assets"
+     That is all! Repeat the procedure for the "Assets" folder
     
     
 
