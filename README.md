@@ -16,7 +16,7 @@ Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma 
     //Inicializar o Git LFS
     git lfs install 
 
-    //Rastrear a pasta "libary" e "assets"
+    //Rastrear a pasta "Library" e "assets"
     git lfs track "libary/*" 
     git lfs track "Assets/*"
     
