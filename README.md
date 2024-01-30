@@ -8,7 +8,7 @@ This game is capable of storing and displaying a lot of information simultaneous
  
 https://github.com/alfredo1995/metal-slug/assets/71193893/89d5ac98-c63f-453c-ad7f-ffa51b25826d  
 
-
+ 
  
  
  
