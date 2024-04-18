@@ -1,0 +1,5000 @@
+fileFormatVersion: 2
+guid: fb568407a2d221142ae3ced3025527bd
+timeCreated: 1532295081
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neo Geo NGCD - Metal Slug - Marco Rossi_0
+    21300002: Neo Geo NGCD - Metal Slug - Marco Rossi_1
+    21300004: Neo Geo NGCD - Metal Slug - Marco Rossi_2
+    21300006: Neo Geo NGCD - Metal Slug - Marco Rossi_3
+    21300008: Neo Geo NGCD - Metal Slug - Marco Rossi_4
+    21300010: Neo Geo NGCD - Metal Slug - Marco Rossi_5
+    21300012: Neo Geo NGCD - Metal Slug - Marco Rossi_6
+    21300014: Neo Geo NGCD - Metal Slug - Marco Rossi_7
+    21300016: Neo Geo NGCD - Metal Slug - Marco Rossi_8
+    21300018: Neo Geo NGCD - Metal Slug - Marco Rossi_9
+    21300020: Neo Geo NGCD - Metal Slug - Marco Rossi_10
+    21300022: Neo Geo NGCD - Metal Slug - Marco Rossi_11
+    21300024: Neo Geo NGCD - Metal Slug - Marco Rossi_12
+    21300026: Neo Geo NGCD - Metal Slug - Marco Rossi_13
+    21300028: Neo Geo NGCD - Metal Slug - Marco Rossi_14
+    21300030: Neo Geo NGCD - Metal Slug - Marco Rossi_15
+    21300032: Neo Geo NGCD - Metal Slug - Marco Rossi_16
+    21300034: Neo Geo NGCD - Metal Slug - Marco Rossi_17
+    21300036: Neo Geo NGCD - Metal Slug - Marco Rossi_18
+    21300038: Neo Geo NGCD - Metal Slug - Marco Rossi_19
+    21300040: Neo Geo NGCD - Metal Slug - Marco Rossi_20
+    21300042: Neo Geo NGCD - Metal Slug - Marco Rossi_21
+    21300044: Neo Geo NGCD - Metal Slug - Marco Rossi_22
+    21300046: Neo Geo NGCD - Metal Slug - Marco Rossi_23
+    21300048: Neo Geo NGCD - Metal Slug - Marco Rossi_24
+    21300050: Neo Geo NGCD - Metal Slug - Marco Rossi_25
+    21300052: Neo Geo NGCD - Metal Slug - Marco Rossi_26
+    21300054: Neo Geo NGCD - Metal Slug - Marco Rossi_27
+    21300056: Neo Geo NGCD - Metal Slug - Marco Rossi_28
+    21300058: Neo Geo NGCD - Metal Slug - Marco Rossi_29
+    21300060: Neo Geo NGCD - Metal Slug - Marco Rossi_30
+    21300062: Neo Geo NGCD - Metal Slug - Marco Rossi_31
+    21300064: Neo Geo NGCD - Metal Slug - Marco Rossi_32
+    21300066: Neo Geo NGCD - Metal Slug - Marco Rossi_33
+    21300068: Neo Geo NGCD - Metal Slug - Marco Rossi_34
+    21300070: Neo Geo NGCD - Metal Slug - Marco Rossi_35
+    21300072: Neo Geo NGCD - Metal Slug - Marco Rossi_36
+    21300074: Neo Geo NGCD - Metal Slug - Marco Rossi_37
+    21300076: Neo Geo NGCD - Metal Slug - Marco Rossi_38
+    21300078: Neo Geo NGCD - Metal Slug - Marco Rossi_39
+    21300080: Neo Geo NGCD - Metal Slug - Marco Rossi_40
+    21300082: Neo Geo NGCD - Metal Slug - Marco Rossi_41
+    21300084: Neo Geo NGCD - Metal Slug - Marco Rossi_42
+    21300086: Neo Geo NGCD - Metal Slug - Marco Rossi_43
+    21300088: Neo Geo NGCD - Metal Slug - Marco Rossi_44
+    21300090: Neo Geo NGCD - Metal Slug - Marco Rossi_45
+    21300092: Neo Geo NGCD - Metal Slug - Marco Rossi_46
+    21300094: Neo Geo NGCD - Metal Slug - Marco Rossi_47
+    21300096: Neo Geo NGCD - Metal Slug - Marco Rossi_48
+    21300098: Neo Geo NGCD - Metal Slug - Marco Rossi_49
+    21300100: Neo Geo NGCD - Metal Slug - Marco Rossi_50
+    21300102: Neo Geo NGCD - Metal Slug - Marco Rossi_51
+    21300104: Neo Geo NGCD - Metal Slug - Marco Rossi_52
+    21300106: Neo Geo NGCD - Metal Slug - Marco Rossi_53
+    21300108: Neo Geo NGCD - Metal Slug - Marco Rossi_54
+    21300110: Neo Geo NGCD - Metal Slug - Marco Rossi_55
+    21300112: Neo Geo NGCD - Metal Slug - Marco Rossi_56
+    21300114: Neo Geo NGCD - Metal Slug - Marco Rossi_57
+    21300116: Neo Geo NGCD - Metal Slug - Marco Rossi_58
+    21300118: Neo Geo NGCD - Metal Slug - Marco Rossi_59
+    21300120: Neo Geo NGCD - Metal Slug - Marco Rossi_60
+    21300122: Neo Geo NGCD - Metal Slug - Marco Rossi_61
+    21300124: Neo Geo NGCD - Metal Slug - Marco Rossi_62
+    21300126: Neo Geo NGCD - Metal Slug - Marco Rossi_63
+    21300128: Neo Geo NGCD - Metal Slug - Marco Rossi_64
+    21300130: Neo Geo NGCD - Metal Slug - Marco Rossi_65
+    21300132: Neo Geo NGCD - Metal Slug - Marco Rossi_66
+    21300134: Neo Geo NGCD - Metal Slug - Marco Rossi_67
+    21300136: Neo Geo NGCD - Metal Slug - Marco Rossi_68
+    21300138: Neo Geo NGCD - Metal Slug - Marco Rossi_69
+    21300140: Neo Geo NGCD - Metal Slug - Marco Rossi_70
+    21300142: Neo Geo NGCD - Metal Slug - Marco Rossi_71
+    21300144: Neo Geo NGCD - Metal Slug - Marco Rossi_72
+    21300146: Neo Geo NGCD - Metal Slug - Marco Rossi_73
+    21300148: Neo Geo NGCD - Metal Slug - Marco Rossi_74
+    21300150: Neo Geo NGCD - Metal Slug - Marco Rossi_75
+    21300152: Neo Geo NGCD - Metal Slug - Marco Rossi_76
+    21300154: Neo Geo NGCD - Metal Slug - Marco Rossi_77
+    21300156: Neo Geo NGCD - Metal Slug - Marco Rossi_78
+    21300158: Neo Geo NGCD - Metal Slug - Marco Rossi_79
+    21300160: Neo Geo NGCD - Metal Slug - Marco Rossi_80
+    21300162: Neo Geo NGCD - Metal Slug - Marco Rossi_81
+    21300164: Neo Geo NGCD - Metal Slug - Marco Rossi_82
+    21300166: Neo Geo NGCD - Metal Slug - Marco Rossi_83
+    21300168: Neo Geo NGCD - Metal Slug - Marco Rossi_84
+    21300170: Neo Geo NGCD - Metal Slug - Marco Rossi_85
+    21300172: Neo Geo NGCD - Metal Slug - Marco Rossi_86
+    21300174: Neo Geo NGCD - Metal Slug - Marco Rossi_87
+    21300176: Neo Geo NGCD - Metal Slug - Marco Rossi_88
+    21300178: Neo Geo NGCD - Metal Slug - Marco Rossi_89
+    21300180: Neo Geo NGCD - Metal Slug - Marco Rossi_90
+    21300182: Neo Geo NGCD - Metal Slug - Marco Rossi_91
+    21300184: Neo Geo NGCD - Metal Slug - Marco Rossi_92
+    21300186: Neo Geo NGCD - Metal Slug - Marco Rossi_93
+    21300188: Neo Geo NGCD - Metal Slug - Marco Rossi_94
+    21300190: Neo Geo NGCD - Metal Slug - Marco Rossi_95
+    21300192: Neo Geo NGCD - Metal Slug - Marco Rossi_96
+    21300194: Neo Geo NGCD - Metal Slug - Marco Rossi_97
+    21300196: Neo Geo NGCD - Metal Slug - Marco Rossi_98
+    21300198: Neo Geo NGCD - Metal Slug - Marco Rossi_99
+    21300200: Neo Geo NGCD - Metal Slug - Marco Rossi_100
+    21300202: Neo Geo NGCD - Metal Slug - Marco Rossi_101
+    21300204: Neo Geo NGCD - Metal Slug - Marco Rossi_102
+    21300206: Neo Geo NGCD - Metal Slug - Marco Rossi_103
+    21300208: Neo Geo NGCD - Metal Slug - Marco Rossi_104
+    21300210: Neo Geo NGCD - Metal Slug - Marco Rossi_105
+    21300212: Neo Geo NGCD - Metal Slug - Marco Rossi_106
+    21300214: Neo Geo NGCD - Metal Slug - Marco Rossi_107
+    21300216: Neo Geo NGCD - Metal Slug - Marco Rossi_108
+    21300218: Neo Geo NGCD - Metal Slug - Marco Rossi_109
+    21300220: Neo Geo NGCD - Metal Slug - Marco Rossi_110
+    21300222: Neo Geo NGCD - Metal Slug - Marco Rossi_111
+    21300224: Neo Geo NGCD - Metal Slug - Marco Rossi_112
+    21300226: Neo Geo NGCD - Metal Slug - Marco Rossi_113
+    21300228: Neo Geo NGCD - Metal Slug - Marco Rossi_114
+    21300230: Neo Geo NGCD - Metal Slug - Marco Rossi_115
+    21300232: Neo Geo NGCD - Metal Slug - Marco Rossi_116
+    21300234: Neo Geo NGCD - Metal Slug - Marco Rossi_117
+    21300236: Neo Geo NGCD - Metal Slug - Marco Rossi_118
+    21300238: Neo Geo NGCD - Metal Slug - Marco Rossi_119
+    21300240: Neo Geo NGCD - Metal Slug - Marco Rossi_120
+    21300242: Neo Geo NGCD - Metal Slug - Marco Rossi_121
+    21300244: Neo Geo NGCD - Metal Slug - Marco Rossi_122
+    21300246: Neo Geo NGCD - Metal Slug - Marco Rossi_123
+    21300248: Neo Geo NGCD - Metal Slug - Marco Rossi_124
+    21300250: Neo Geo NGCD - Metal Slug - Marco Rossi_125
+    21300252: Neo Geo NGCD - Metal Slug - Marco Rossi_126
+    21300254: Neo Geo NGCD - Metal Slug - Marco Rossi_127
+    21300256: Neo Geo NGCD - Metal Slug - Marco Rossi_128
+    21300258: Neo Geo NGCD - Metal Slug - Marco Rossi_129
+    21300260: Neo Geo NGCD - Metal Slug - Marco Rossi_130
+    21300262: Neo Geo NGCD - Metal Slug - Marco Rossi_131
+    21300264: Neo Geo NGCD - Metal Slug - Marco Rossi_132
+    21300266: Neo Geo NGCD - Metal Slug - Marco Rossi_133
+    21300268: Neo Geo NGCD - Metal Slug - Marco Rossi_134
+    21300270: Neo Geo NGCD - Metal Slug - Marco Rossi_135
+    21300272: Neo Geo NGCD - Metal Slug - Marco Rossi_136
+    21300274: Neo Geo NGCD - Metal Slug - Marco Rossi_137
+    21300276: Neo Geo NGCD - Metal Slug - Marco Rossi_138
+    21300278: Neo Geo NGCD - Metal Slug - Marco Rossi_139
+    21300280: Neo Geo NGCD - Metal Slug - Marco Rossi_140
+    21300282: Neo Geo NGCD - Metal Slug - Marco Rossi_141
+    21300284: Neo Geo NGCD - Metal Slug - Marco Rossi_142
+    21300286: Neo Geo NGCD - Metal Slug - Marco Rossi_143
+    21300288: Neo Geo NGCD - Metal Slug - Marco Rossi_144
+    21300290: Neo Geo NGCD - Metal Slug - Marco Rossi_145
+    21300292: Neo Geo NGCD - Metal Slug - Marco Rossi_146
+    21300294: Neo Geo NGCD - Metal Slug - Marco Rossi_147
+    21300296: Neo Geo NGCD - Metal Slug - Marco Rossi_148
+    21300298: Neo Geo NGCD - Metal Slug - Marco Rossi_149
+    21300300: Neo Geo NGCD - Metal Slug - Marco Rossi_150
+    21300302: Neo Geo NGCD - Metal Slug - Marco Rossi_151
+    21300304: Neo Geo NGCD - Metal Slug - Marco Rossi_152
+    21300306: Neo Geo NGCD - Metal Slug - Marco Rossi_153
+    21300308: Neo Geo NGCD - Metal Slug - Marco Rossi_154
+    21300310: Neo Geo NGCD - Metal Slug - Marco Rossi_155
+    21300312: Neo Geo NGCD - Metal Slug - Marco Rossi_156
+    21300314: Neo Geo NGCD - Metal Slug - Marco Rossi_157
+    21300316: Neo Geo NGCD - Metal Slug - Marco Rossi_158
+    21300318: Neo Geo NGCD - Metal Slug - Marco Rossi_159
+    21300320: Neo Geo NGCD - Metal Slug - Marco Rossi_160
+    21300322: Neo Geo NGCD - Metal Slug - Marco Rossi_161
+    21300324: Neo Geo NGCD - Metal Slug - Marco Rossi_162
+    21300326: Neo Geo NGCD - Metal Slug - Marco Rossi_163
+    21300328: Neo Geo NGCD - Metal Slug - Marco Rossi_164
+    21300330: Neo Geo NGCD - Metal Slug - Marco Rossi_165
+    21300332: Neo Geo NGCD - Metal Slug - Marco Rossi_166
+    21300334: Neo Geo NGCD - Metal Slug - Marco Rossi_167
+    21300336: Neo Geo NGCD - Metal Slug - Marco Rossi_168
+    21300338: Neo Geo NGCD - Metal Slug - Marco Rossi_169
+    21300340: Neo Geo NGCD - Metal Slug - Marco Rossi_170
+    21300342: Neo Geo NGCD - Metal Slug - Marco Rossi_171
+    21300344: Neo Geo NGCD - Metal Slug - Marco Rossi_172
+    21300346: Neo Geo NGCD - Metal Slug - Marco Rossi_173
+    21300348: Neo Geo NGCD - Metal Slug - Marco Rossi_174
+    21300350: Neo Geo NGCD - Metal Slug - Marco Rossi_175
+    21300352: Neo Geo NGCD - Metal Slug - Marco Rossi_176
+    21300354: Neo Geo NGCD - Metal Slug - Marco Rossi_177
+    21300356: Neo Geo NGCD - Metal Slug - Marco Rossi_178
+    21300358: Neo Geo NGCD - Metal Slug - Marco Rossi_179
+    21300360: Neo Geo NGCD - Metal Slug - Marco Rossi_180
+    21300362: Neo Geo NGCD - Metal Slug - Marco Rossi_181
+    21300364: Neo Geo NGCD - Metal Slug - Marco Rossi_182
+    21300366: Neo Geo NGCD - Metal Slug - Marco Rossi_183
+    21300368: Neo Geo NGCD - Metal Slug - Marco Rossi_184
+    21300370: Neo Geo NGCD - Metal Slug - Marco Rossi_185
+    21300372: Neo Geo NGCD - Metal Slug - Marco Rossi_186
+    21300374: Neo Geo NGCD - Metal Slug - Marco Rossi_187
+    21300376: Neo Geo NGCD - Metal Slug - Marco Rossi_188
+    21300378: Neo Geo NGCD - Metal Slug - Marco Rossi_189
+    21300380: Neo Geo NGCD - Metal Slug - Marco Rossi_190
+    21300382: Neo Geo NGCD - Metal Slug - Marco Rossi_191
+    21300384: Neo Geo NGCD - Metal Slug - Marco Rossi_192
+    21300386: Neo Geo NGCD - Metal Slug - Marco Rossi_193
+    21300388: Neo Geo NGCD - Metal Slug - Marco Rossi_194
+    21300390: Neo Geo NGCD - Metal Slug - Marco Rossi_195
+    21300392: Neo Geo NGCD - Metal Slug - Marco Rossi_196
+    21300394: Neo Geo NGCD - Metal Slug - Marco Rossi_197
+    21300396: Neo Geo NGCD - Metal Slug - Marco Rossi_198
+    21300398: Neo Geo NGCD - Metal Slug - Marco Rossi_199
+    21300400: Neo Geo NGCD - Metal Slug - Marco Rossi_200
+    21300402: Neo Geo NGCD - Metal Slug - Marco Rossi_201
+    21300404: Neo Geo NGCD - Metal Slug - Marco Rossi_202
+    21300406: Neo Geo NGCD - Metal Slug - Marco Rossi_203
+    21300408: Neo Geo NGCD - Metal Slug - Marco Rossi_204
+    21300410: Neo Geo NGCD - Metal Slug - Marco Rossi_205
+    21300412: Neo Geo NGCD - Metal Slug - Marco Rossi_206
+    21300414: Neo Geo NGCD - Metal Slug - Marco Rossi_207
+    21300416: Neo Geo NGCD - Metal Slug - Marco Rossi_208
+    21300418: Neo Geo NGCD - Metal Slug - Marco Rossi_209
+    21300420: Neo Geo NGCD - Metal Slug - Marco Rossi_210
+    21300422: Neo Geo NGCD - Metal Slug - Marco Rossi_211
+    21300424: Neo Geo NGCD - Metal Slug - Marco Rossi_212
+    21300426: Neo Geo NGCD - Metal Slug - Marco Rossi_213
+    21300428: Neo Geo NGCD - Metal Slug - Marco Rossi_214
+    21300430: Neo Geo NGCD - Metal Slug - Marco Rossi_215
+    21300432: Neo Geo NGCD - Metal Slug - Marco Rossi_216
+    21300434: Neo Geo NGCD - Metal Slug - Marco Rossi_217
+    21300436: Neo Geo NGCD - Metal Slug - Marco Rossi_218
+    21300438: Neo Geo NGCD - Metal Slug - Marco Rossi_219
+    21300440: Neo Geo NGCD - Metal Slug - Marco Rossi_220
+    21300442: Neo Geo NGCD - Metal Slug - Marco Rossi_221
+    21300444: Neo Geo NGCD - Metal Slug - Marco Rossi_222
+    21300446: Neo Geo NGCD - Metal Slug - Marco Rossi_223
+    21300448: Neo Geo NGCD - Metal Slug - Marco Rossi_224
+    21300450: Neo Geo NGCD - Metal Slug - Marco Rossi_225
+    21300452: Neo Geo NGCD - Metal Slug - Marco Rossi_226
+    21300454: Neo Geo NGCD - Metal Slug - Marco Rossi_227
+    21300456: Neo Geo NGCD - Metal Slug - Marco Rossi_228
+    21300458: Neo Geo NGCD - Metal Slug - Marco Rossi_229
+    21300460: Neo Geo NGCD - Metal Slug - Marco Rossi_230
+    21300462: Neo Geo NGCD - Metal Slug - Marco Rossi_231
+    21300464: Neo Geo NGCD - Metal Slug - Marco Rossi_232
+    21300466: Neo Geo NGCD - Metal Slug - Marco Rossi_233
+    21300468: Neo Geo NGCD - Metal Slug - Marco Rossi_234
+    21300470: Neo Geo NGCD - Metal Slug - Marco Rossi_235
+    21300472: Neo Geo NGCD - Metal Slug - Marco Rossi_236
+    21300474: Neo Geo NGCD - Metal Slug - Marco Rossi_237
+    21300476: Neo Geo NGCD - Metal Slug - Marco Rossi_238
+    21300478: Neo Geo NGCD - Metal Slug - Marco Rossi_239
+    21300480: Neo Geo NGCD - Metal Slug - Marco Rossi_240
+    21300482: Neo Geo NGCD - Metal Slug - Marco Rossi_241
+    21300484: Neo Geo NGCD - Metal Slug - Marco Rossi_242
+    21300486: Neo Geo NGCD - Metal Slug - Marco Rossi_243
+    21300488: Neo Geo NGCD - Metal Slug - Marco Rossi_244
+    21300490: Neo Geo NGCD - Metal Slug - Marco Rossi_245
+    21300492: Neo Geo NGCD - Metal Slug - Marco Rossi_246
+    21300494: Neo Geo NGCD - Metal Slug - Marco Rossi_247
+    21300496: Neo Geo NGCD - Metal Slug - Marco Rossi_248
+    21300498: Neo Geo NGCD - Metal Slug - Marco Rossi_249
+    21300500: Neo Geo NGCD - Metal Slug - Marco Rossi_250
+    21300502: Neo Geo NGCD - Metal Slug - Marco Rossi_251
+    21300504: Neo Geo NGCD - Metal Slug - Marco Rossi_252
+    21300506: Neo Geo NGCD - Metal Slug - Marco Rossi_253
+    21300508: Neo Geo NGCD - Metal Slug - Marco Rossi_254
+    21300510: Neo Geo NGCD - Metal Slug - Marco Rossi_255
+    21300512: Neo Geo NGCD - Metal Slug - Marco Rossi_256
+    21300514: Neo Geo NGCD - Metal Slug - Marco Rossi_257
+    21300516: Neo Geo NGCD - Metal Slug - Marco Rossi_258
+    21300518: Neo Geo NGCD - Metal Slug - Marco Rossi_259
+    21300520: Neo Geo NGCD - Metal Slug - Marco Rossi_260
+    21300522: Neo Geo NGCD - Metal Slug - Marco Rossi_261
+    21300524: Neo Geo NGCD - Metal Slug - Marco Rossi_262
+    21300526: Neo Geo NGCD - Metal Slug - Marco Rossi_263
+    21300528: Neo Geo NGCD - Metal Slug - Marco Rossi_264
+    21300530: Neo Geo NGCD - Metal Slug - Marco Rossi_265
+    21300532: Neo Geo NGCD - Metal Slug - Marco Rossi_266
+    21300534: Neo Geo NGCD - Metal Slug - Marco Rossi_267
+    21300536: Neo Geo NGCD - Metal Slug - Marco Rossi_268
+    21300538: Neo Geo NGCD - Metal Slug - Marco Rossi_269
+    21300540: Neo Geo NGCD - Metal Slug - Marco Rossi_270
+    21300542: Neo Geo NGCD - Metal Slug - Marco Rossi_271
+    21300544: Neo Geo NGCD - Metal Slug - Marco Rossi_272
+    21300546: Neo Geo NGCD - Metal Slug - Marco Rossi_273
+    21300548: Neo Geo NGCD - Metal Slug - Marco Rossi_274
+    21300550: Neo Geo NGCD - Metal Slug - Marco Rossi_275
+    21300552: Neo Geo NGCD - Metal Slug - Marco Rossi_276
+    21300554: Neo Geo NGCD - Metal Slug - Marco Rossi_277
+    21300556: Neo Geo NGCD - Metal Slug - Marco Rossi_278
+    21300558: Neo Geo NGCD - Metal Slug - Marco Rossi_279
+    21300560: Neo Geo NGCD - Metal Slug - Marco Rossi_280
+    21300562: Neo Geo NGCD - Metal Slug - Marco Rossi_281
+    21300564: Neo Geo NGCD - Metal Slug - Marco Rossi_282
+    21300566: Neo Geo NGCD - Metal Slug - Marco Rossi_283
+    21300568: Neo Geo NGCD - Metal Slug - Marco Rossi_284
+    21300570: Neo Geo NGCD - Metal Slug - Marco Rossi_285
+    21300572: Neo Geo NGCD - Metal Slug - Marco Rossi_286
+    21300574: Neo Geo NGCD - Metal Slug - Marco Rossi_287
+    21300576: Neo Geo NGCD - Metal Slug - Marco Rossi_288
+    21300578: Neo Geo NGCD - Metal Slug - Marco Rossi_289
+    21300580: Neo Geo NGCD - Metal Slug - Marco Rossi_290
+    21300582: Neo Geo NGCD - Metal Slug - Marco Rossi_291
+    21300584: Neo Geo NGCD - Metal Slug - Marco Rossi_292
+    21300586: Neo Geo NGCD - Metal Slug - Marco Rossi_293
+    21300588: Neo Geo NGCD - Metal Slug - Marco Rossi_294
+    21300590: Neo Geo NGCD - Metal Slug - Marco Rossi_295
+    21300592: Neo Geo NGCD - Metal Slug - Marco Rossi_296
+    21300594: Neo Geo NGCD - Metal Slug - Marco Rossi_297
+    21300596: Neo Geo NGCD - Metal Slug - Marco Rossi_298
+    21300598: Neo Geo NGCD - Metal Slug - Marco Rossi_299
+    21300600: Neo Geo NGCD - Metal Slug - Marco Rossi_300
+    21300602: Neo Geo NGCD - Metal Slug - Marco Rossi_301
+    21300604: Neo Geo NGCD - Metal Slug - Marco Rossi_302
+    21300606: Neo Geo NGCD - Metal Slug - Marco Rossi_303
+    21300608: Neo Geo NGCD - Metal Slug - Marco Rossi_304
+    21300610: Neo Geo NGCD - Metal Slug - Marco Rossi_305
+    21300612: Neo Geo NGCD - Metal Slug - Marco Rossi_306
+    21300614: Neo Geo NGCD - Metal Slug - Marco Rossi_307
+    21300616: Neo Geo NGCD - Metal Slug - Marco Rossi_308
+    21300618: Neo Geo NGCD - Metal Slug - Marco Rossi_309
+    21300620: Neo Geo NGCD - Metal Slug - Marco Rossi_310
+    21300622: Neo Geo NGCD - Metal Slug - Marco Rossi_311
+    21300624: Neo Geo NGCD - Metal Slug - Marco Rossi_312
+    21300626: Neo Geo NGCD - Metal Slug - Marco Rossi_313
+    21300628: Neo Geo NGCD - Metal Slug - Marco Rossi_314
+    21300630: Neo Geo NGCD - Metal Slug - Marco Rossi_315
+    21300632: Neo Geo NGCD - Metal Slug - Marco Rossi_316
+    21300634: Neo Geo NGCD - Metal Slug - Marco Rossi_317
+    21300636: Neo Geo NGCD - Metal Slug - Marco Rossi_318
+    21300638: Neo Geo NGCD - Metal Slug - Marco Rossi_319
+    21300640: Neo Geo NGCD - Metal Slug - Marco Rossi_320
+    21300642: Neo Geo NGCD - Metal Slug - Marco Rossi_321
+    21300644: Neo Geo NGCD - Metal Slug - Marco Rossi_322
+    21300646: Neo Geo NGCD - Metal Slug - Marco Rossi_323
+    21300648: Neo Geo NGCD - Metal Slug - Marco Rossi_324
+    21300650: Neo Geo NGCD - Metal Slug - Marco Rossi_325
+    21300652: Neo Geo NGCD - Metal Slug - Marco Rossi_326
+    21300654: Neo Geo NGCD - Metal Slug - Marco Rossi_327
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 424
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 424
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 425
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 425
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 378
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 421
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 425
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 428
+        width: 51
+        height: 31
+      alignment: 9
+      pivot: {x: 0.22396313, y: 0.0050038304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 428
+        width: 51
+        height: 31
+      alignment: 9
+      pivot: {x: 0.20973416, y: -0.0000010523303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 428
+        width: 51
+        height: 31
+      alignment: 9
+      pivot: {x: 0.22680843, y: -0.0000010523303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_10
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 440
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 430
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 430
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 430
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_14
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 430
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 427
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_16
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 426
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_17
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 427
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_18
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 430
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_19
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 430
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_20
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 430
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_21
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 440
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_22
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 430
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_23
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 430
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_24
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 430
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_25
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 430
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_26
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 427
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_27
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 426
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_28
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 426
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_29
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 428
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_30
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 428
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_31
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 429
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_32
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 429
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 378
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 377
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 378
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_36
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 378
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_37
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 378
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 377
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 378
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 378
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 378
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_42
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 378
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 378
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_44
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 378
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_45
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 378
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_46
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 386
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_47
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 369
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_48
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 388
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_49
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 367
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_50
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 392
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_51
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 390
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_52
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 388
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_53
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 376
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_54
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 379
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_55
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 378
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_56
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 382
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_57
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 381
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_58
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 380
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_59
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 377
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_60
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 377
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_61
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 375
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_62
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 376
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_63
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 378
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_64
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 378
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_65
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 379
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_66
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 379
+        width: 33
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_67
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 379
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_68
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 379
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_69
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 379
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_70
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 369
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 327
+        width: 33
+        height: 29
+      alignment: 9
+      pivot: {x: 0.36771816, y: 0.07526266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_72
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 326
+        width: 35
+        height: 30
+      alignment: 9
+      pivot: {x: 0.36771753, y: 0.095161945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_73
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 329
+        width: 35
+        height: 27
+      alignment: 9
+      pivot: {x: 0.312374, y: 0.017688893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_74
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 329
+        width: 36
+        height: 27
+      alignment: 9
+      pivot: {x: 0.33084998, y: -0.006919578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_75
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 328
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3640175, y: 0.0000010899136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_76
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 325
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.37396538, y: 0.11566734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_77
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 325
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4170829, y: 0.13432312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_78
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 325
+        width: 36
+        height: 32
+      alignment: 9
+      pivot: {x: 0.43034872, y: 0.123129845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_79
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 325
+        width: 37
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4128682, y: 0.10074234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_80
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 325
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.39424527, y: 0.14178562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_81
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 327
+        width: 35
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4113002, y: 0.096290834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_82
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 334
+        width: 35
+        height: 24
+      alignment: 9
+      pivot: {x: 0.34989712, y: -0.17909496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_83
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 334
+        width: 35
+        height: 25
+      alignment: 9
+      pivot: {x: 0.40789098, y: -0.11939697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_84
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 334
+        width: 38
+        height: 26
+      alignment: 9
+      pivot: {x: 0.37431577, y: -0.12858112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_85
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 335
+        width: 38
+        height: 25
+      alignment: 9
+      pivot: {x: 0.3837441, y: -0.18148437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_86
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 335
+        width: 38
+        height: 25
+      alignment: 9
+      pivot: {x: 0.31775865, y: -0.12417236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_87
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 335
+        width: 39
+        height: 25
+      alignment: 9
+      pivot: {x: 0.3561104, y: -0.15282837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_88
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 335
+        width: 41
+        height: 26
+      alignment: 9
+      pivot: {x: 0.40680975, y: -0.16531959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_89
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 334
+        width: 39
+        height: 27
+      alignment: 9
+      pivot: {x: 0.41427848, y: -0.11497554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_90
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 333
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_91
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 333
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_92
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 334
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_93
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 334
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_94
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 335
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_95
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 335
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_96
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 338
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_97
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 334
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_98
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 335
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_99
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 336
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_100
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 336
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_101
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 327
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_102
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 328
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_103
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 339
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_106
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 284
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_107
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 284
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_108
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 285
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_109
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 285
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_110
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 284
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_111
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 284
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_112
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 283
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_113
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 283
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_114
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 284
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_115
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 285
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_116
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 284
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_117
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 284
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_118
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 279
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_119
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 280
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_120
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 277
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_121
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 283
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_122
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 290
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_123
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 290
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_124
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 290
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_125
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 290
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_126
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 291
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_127
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 290
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_128
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 282
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_129
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 281
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_130
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_131
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 279
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_132
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 282
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_133
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 285
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_134
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 284
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_135
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 284
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_136
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 282
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_137
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 284
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_138
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 285
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_139
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 284
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_140
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 283
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_141
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 280
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_142
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 280
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_143
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 280
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_144
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 241
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_145
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 239
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_146
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 237
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_147
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 235
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_148
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 235
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_149
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 237
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_150
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 239
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_151
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 241
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_152
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 241
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_153
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 241
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_154
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 241
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_155
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 241
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_156
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 239
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_157
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 237
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_158
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 235
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_159
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 235
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_160
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 237
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_161
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 239
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_162
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 238
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_163
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 238
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_164
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 238
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_165
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 238
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_166
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 239
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_167
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 238
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_168
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 239
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_169
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 238
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_170
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 239
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_171
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 240
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_172
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 239
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_173
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 240
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_174
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 239
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_175
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 238
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_176
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 239
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_177
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 238
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_178
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 239
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_179
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 198
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_180
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 198
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_181
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 197
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_182
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 193
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_183
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 194
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_184
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 194
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_185
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 194
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_186
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 194
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_187
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 192
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_188
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 192
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_189
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 192
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_190
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 223
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_191
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 192
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_192
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 192
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_193
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_194
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 192
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_195
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 192
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_196
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 192
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_197
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 192
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_198
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 192
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_199
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 192
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_200
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 192
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_201
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 192
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_202
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 192
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_203
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 192
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_204
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 192
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_205
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 192
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_206
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 192
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_207
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 192
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_208
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 192
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_209
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 192
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_210
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 192
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_211
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 192
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_212
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 192
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_213
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 152
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_214
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 152
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_215
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 166
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_216
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 152
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_217
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 152
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_218
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 152
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_219
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 152
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_220
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 152
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_221
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 152
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_222
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 152
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_223
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 152
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_224
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 152
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_225
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 152
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_226
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 152
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_227
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 152
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_228
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 152
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_229
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 152
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_230
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 152
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_231
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 152
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_232
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 152
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_233
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 152
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_234
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 166
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_235
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 152
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_236
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 152
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_237
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 152
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_238
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 152
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_239
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 152
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_240
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 152
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_241
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 152
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_242
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 152
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_243
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 152
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_244
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 152
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_245
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 152
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_246
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 130
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_247
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 133
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_248
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 106
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_249
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 107
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_251
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 60
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_252
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 60
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_253
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 106
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_254
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 106
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_255
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 106
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_256
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 106
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_257
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 106
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_258
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 106
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_259
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 106
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_260
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 106
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_261
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 106
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_262
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 106
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_263
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 106
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_264
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 106
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_265
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 106
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_266
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 106
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_267
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 107
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_268
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 107
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_269
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 107
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_270
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 107
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_271
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 107
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_272
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 107
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_273
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 107
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_274
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 107
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_275
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 107
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_276
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 60
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_277
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 59
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_278
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 59
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_279
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 59
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_280
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 59
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_281
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 59
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_282
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 59
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_283
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 59
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_284
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 59
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_285
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 59
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_286
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 59
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_287
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 59
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_288
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 59
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_289
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 59
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_290
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 59
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_291
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 59
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_292
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 59
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_293
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 59
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_294
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 59
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_295
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 59
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_296
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 59
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_297
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 59
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_298
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 59
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_299
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 59
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_300
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 59
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_301
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 10
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_302
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 10
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_303
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 10
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_304
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 10
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_305
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 10
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_306
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 10
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_307
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 10
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_308
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 10
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_309
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 10
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_310
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 10
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_311
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 10
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_312
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 10
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_313
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 10
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_314
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 10
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_315
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 10
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_316
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 10
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_317
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 10
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_318
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 10
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_319
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 10
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_320
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 10
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_321
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 10
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_322
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 10
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_323
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 0
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_324
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 0
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_325
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 10
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_326
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 10
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Marco Rossi_327
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 10
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

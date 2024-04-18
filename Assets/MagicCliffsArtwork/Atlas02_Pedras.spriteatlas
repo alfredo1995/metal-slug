@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Atlas02_Pedras
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300040, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300042, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300044, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300084, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300046, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300066, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300086, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300048, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300064, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300080, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300050, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300062, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300082, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300110, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300052, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300060, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300092, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300108, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300054, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300074, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300094, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300114, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300056, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300072, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300088, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300112, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300058, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300070, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300090, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300102, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300068, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300100, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300106, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300096, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300104, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300078, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300098, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300076, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300118, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300116, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300004, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300006, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300000, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300002, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300012, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300014, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300008, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300010, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300016, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300018, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300038, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300036, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300136, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300022, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300138, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300020, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300026, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300024, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300128, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300030, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300130, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300158, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300028, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300132, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300156, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300034, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300134, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300154, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300032, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300120, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300152, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300122, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300150, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300124, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300148, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300126, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300146, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300144, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300160, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300142, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  - {fileID: 21300140, guid: f5091b27a656f437094000095b53c3e9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cave-tileset_20
+  - cave-tileset_21
+  - cave-tileset_22
+  - cave-tileset_42
+  - cave-tileset_23
+  - cave-tileset_33
+  - cave-tileset_43
+  - cave-tileset_24
+  - cave-tileset_32
+  - cave-tileset_40
+  - cave-tileset_25
+  - cave-tileset_31
+  - cave-tileset_41
+  - cave-tileset_55
+  - cave-tileset_26
+  - cave-tileset_30
+  - cave-tileset_46
+  - cave-tileset_54
+  - cave-tileset_27
+  - cave-tileset_37
+  - cave-tileset_47
+  - cave-tileset_57
+  - cave-tileset_28
+  - cave-tileset_36
+  - cave-tileset_44
+  - cave-tileset_56
+  - cave-tileset_29
+  - cave-tileset_35
+  - cave-tileset_45
+  - cave-tileset_51
+  - cave-tileset_34
+  - cave-tileset_50
+  - cave-tileset_53
+  - cave-tileset_48
+  - cave-tileset_52
+  - cave-tileset_39
+  - cave-tileset_49
+  - cave-tileset_38
+  - cave-tileset_59
+  - cave-tileset_58
+  - cave-tileset_2
+  - cave-tileset_3
+  - cave-tileset_0
+  - cave-tileset_1
+  - cave-tileset_6
+  - cave-tileset_7
+  - cave-tileset_4
+  - cave-tileset_5
+  - cave-tileset_8
+  - cave-tileset_9
+  - cave-tileset_19
+  - cave-tileset_18
+  - cave-tileset_68
+  - cave-tileset_11
+  - cave-tileset_69
+  - cave-tileset_10
+  - cave-tileset_13
+  - cave-tileset_12
+  - cave-tileset_64
+  - cave-tileset_15
+  - cave-tileset_65
+  - cave-tileset_79
+  - cave-tileset_14
+  - cave-tileset_66
+  - cave-tileset_78
+  - cave-tileset_17
+  - cave-tileset_67
+  - cave-tileset_77
+  - cave-tileset_16
+  - cave-tileset_60
+  - cave-tileset_76
+  - cave-tileset_61
+  - cave-tileset_75
+  - cave-tileset_62
+  - cave-tileset_74
+  - cave-tileset_63
+  - cave-tileset_73
+  - cave-tileset_72
+  - cave-tileset_80
+  - cave-tileset_71
+  - cave-tileset_70
+  m_Tag: Atlas02_Pedras
+  m_IsVariant: 0
