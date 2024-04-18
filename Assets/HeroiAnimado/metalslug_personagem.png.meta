@@ -1,0 +1,1578 @@
+fileFormatVersion: 2
+guid: 0db90c32be814be469fc2240de47a362
+timeCreated: 1530669268
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: metalslug_personagem_0
+    21300002: metalslug_personagem_1
+    21300004: metalslug_personagem_2
+    21300006: metalslug_personagem_3
+    21300008: metalslug_personagem_4
+    21300010: metalslug_personagem_5
+    21300012: metalslug_personagem_6
+    21300014: metalslug_personagem_7
+    21300016: metalslug_personagem_8
+    21300018: metalslug_personagem_9
+    21300020: metalslug_personagem_10
+    21300022: metalslug_personagem_11
+    21300024: metalslug_personagem_12
+    21300026: metalslug_personagem_13
+    21300028: metalslug_personagem_14
+    21300030: metalslug_personagem_15
+    21300032: metalslug_personagem_16
+    21300034: metalslug_personagem_17
+    21300036: metalslug_personagem_18
+    21300038: metalslug_personagem_19
+    21300040: metalslug_personagem_20
+    21300042: metalslug_personagem_21
+    21300044: metalslug_personagem_22
+    21300046: metalslug_personagem_23
+    21300048: metalslug_personagem_24
+    21300050: metalslug_personagem_25
+    21300052: metalslug_personagem_26
+    21300054: metalslug_personagem_27
+    21300056: metalslug_personagem_28
+    21300058: metalslug_personagem_29
+    21300060: metalslug_personagem_30
+    21300062: metalslug_personagem_31
+    21300064: metalslug_personagem_32
+    21300066: metalslug_personagem_33
+    21300068: metalslug_personagem_34
+    21300070: metalslug_personagem_35
+    21300072: metalslug_personagem_36
+    21300074: metalslug_personagem_37
+    21300076: metalslug_personagem_38
+    21300078: metalslug_personagem_39
+    21300080: metalslug_personagem_40
+    21300082: metalslug_personagem_41
+    21300084: metalslug_personagem_42
+    21300086: metalslug_personagem_43
+    21300088: metalslug_personagem_44
+    21300090: metalslug_personagem_45
+    21300092: metalslug_personagem_46
+    21300094: metalslug_personagem_47
+    21300096: metalslug_personagem_48
+    21300098: metalslug_personagem_49
+    21300100: metalslug_personagem_50
+    21300102: metalslug_personagem_51
+    21300104: metalslug_personagem_52
+    21300106: metalslug_personagem_53
+    21300108: metalslug_personagem_54
+    21300110: metalslug_personagem_55
+    21300112: metalslug_personagem_56
+    21300114: metalslug_personagem_57
+    21300116: metalslug_personagem_58
+    21300118: metalslug_personagem_59
+    21300120: metalslug_personagem_60
+    21300122: metalslug_personagem_61
+    21300124: metalslug_personagem_62
+    21300126: metalslug_personagem_63
+    21300128: metalslug_personagem_64
+    21300130: metalslug_personagem_65
+    21300132: metalslug_personagem_66
+    21300134: metalslug_personagem_67
+    21300136: metalslug_personagem_68
+    21300138: metalslug_personagem_69
+    21300140: metalslug_personagem_70
+    21300142: metalslug_personagem_71
+    21300144: metalslug_personagem_72
+    21300146: metalslug_personagem_73
+    21300148: metalslug_personagem_74
+    21300150: metalslug_personagem_75
+    21300152: metalslug_personagem_76
+    21300154: metalslug_personagem_77
+    21300156: metalslug_personagem_78
+    21300158: metalslug_personagem_79
+    21300160: metalslug_personagem_80
+    21300162: metalslug_personagem_81
+    21300164: metalslug_personagem_82
+    21300166: metalslug_personagem_83
+    21300168: metalslug_personagem_84
+    21300170: metalslug_personagem_85
+    21300172: metalslug_personagem_86
+    21300174: metalslug_personagem_87
+    21300176: metalslug_personagem_88
+    21300178: metalslug_personagem_89
+    21300180: metalslug_personagem_90
+    21300182: metalslug_personagem_91
+    21300184: metalslug_personagem_92
+    21300186: metalslug_personagem_93
+    21300188: metalslug_personagem_94
+    21300190: metalslug_personagem_95
+    21300192: metalslug_personagem_96
+    21300194: metalslug_personagem_97
+    21300196: metalslug_personagem_98
+    21300198: metalslug_personagem_99
+    21300200: metalslug_personagem_100
+    21300202: metalslug_personagem_101
+    21300204: metalslug_personagem_102
+    21300206: metalslug_personagem_103
+    21300208: metalslug_personagem_104
+    21300210: metalslug_personagem_105
+    21300212: metalslug_personagem_106
+    21300214: metalslug_personagem_107
+    21300216: metalslug_personagem_108
+    21300218: metalslug_personagem_109
+    21300220: metalslug_personagem_110
+    21300222: metalslug_personagem_111
+    21300224: metalslug_personagem_112
+    21300226: metalslug_personagem_113
+    21300228: metalslug_personagem_114
+    21300230: metalslug_personagem_115
+    21300232: metalslug_personagem_116
+    21300234: metalslug_personagem_117
+    21300236: metalslug_personagem_118
+    21300238: metalslug_personagem_119
+    21300240: metalslug_personagem_120
+    21300242: metalslug_personagem_121
+    21300244: metalslug_personagem_122
+    21300246: metalslug_personagem_123
+    21300248: metalslug_personagem_124
+    21300250: metalslug_personagem_125
+    21300252: metalslug_personagem_126
+    21300254: metalslug_personagem_127
+    21300256: metalslug_personagem_128
+    21300258: metalslug_personagem_129
+    21300260: metalslug_personagem_130
+    21300262: metalslug_personagem_131
+    21300264: metalslug_personagem_132
+    21300266: metalslug_personagem_133
+    21300268: metalslug_personagem_134
+    21300270: metalslug_personagem_135
+    21300272: metalslug_personagem_136
+    21300274: metalslug_personagem_137
+    21300276: metalslug_personagem_138
+    21300278: metalslug_personagem_139
+    21300280: metalslug_personagem_140
+    21300282: metalslug_personagem_141
+    21300284: metalslug_personagem_142
+    21300286: metalslug_personagem_143
+    21300288: metalslug_personagem_144
+    21300290: metalslug_personagem_145
+    21300292: metalslug_personagem_146
+    21300294: metalslug_personagem_147
+    21300296: metalslug_personagem_148
+    21300298: metalslug_personagem_149
+    21300300: metalslug_personagem_150
+    21300302: metalslug_personagem_151
+    21300304: metalslug_personagem_152
+    21300306: metalslug_personagem_153
+    21300308: metalslug_personagem_154
+    21300310: metalslug_personagem_155
+    21300312: metalslug_personagem_156
+    21300314: metalslug_personagem_157
+    21300316: metalslug_personagem_158
+    21300318: metalslug_personagem_159
+    21300320: metalslug_personagem_160
+    21300322: metalslug_personagem_161
+    21300324: metalslug_personagem_162
+    21300326: metalslug_personagem_163
+    21300328: metalslug_personagem_164
+    21300330: metalslug_personagem_165
+    21300332: metalslug_personagem_166
+    21300334: metalslug_personagem_167
+    21300336: metalslug_personagem_168
+    21300338: metalslug_personagem_169
+    21300340: metalslug_personagem_170
+    21300342: metalslug_personagem_171
+    21300344: metalslug_personagem_172
+    21300346: metalslug_personagem_173
+    21300348: metalslug_personagem_174
+    21300350: metalslug_personagem_175
+    21300352: metalslug_personagem_176
+    21300354: metalslug_personagem_177
+    21300356: metalslug_personagem_178
+    21300358: metalslug_personagem_179
+    21300360: metalslug_personagem_180
+    21300362: metalslug_personagem_181
+    21300364: metalslug_personagem_182
+    21300366: metalslug_personagem_183
+    21300368: metalslug_personagem_184
+    21300370: metalslug_personagem_185
+    21300372: metalslug_personagem_186
+    21300374: metalslug_personagem_187
+    21300376: metalslug_personagem_188
+    21300378: metalslug_personagem_189
+    21300380: metalslug_personagem_190
+    21300382: metalslug_personagem_191
+    21300384: metalslug_personagem_192
+    21300386: metalslug_personagem_193
+    21300388: metalslug_personagem_194
+    21300390: metalslug_personagem_195
+    21300392: metalslug_personagem_196
+    21300394: metalslug_personagem_197
+    21300396: metalslug_personagem_198
+    21300398: metalslug_personagem_199
+    21300400: metalslug_personagem_200
+    21300402: metalslug_personagem_201
+    21300404: metalslug_personagem_202
+    21300406: metalslug_personagem_203
+    21300408: metalslug_personagem_204
+    21300410: metalslug_personagem_205
+    21300412: metalslug_personagem_206
+    21300414: metalslug_personagem_207
+    21300416: metalslug_personagem_208
+    21300418: metalslug_personagem_209
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: metalslug_personagem_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 560
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: -0.0009739481, y: 0.00035022554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 504
+        width: 50
+        height: 37
+      alignment: 9
+      pivot: {x: -0.0013060188, y: -0.00020372546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 504
+        width: 51
+        height: 37
+      alignment: 9
+      pivot: {x: -0.0029062757, y: -0.00020372546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 504
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.0003742218, y: -0.00020372546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 504
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: -0.0012477875, y: 0.000016432543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: -0.0033049583, y: -0.0033055355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 504
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.00090350525, y: 0.0041932804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 504
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: -0.00118321, y: 0.00057488517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 504
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: -0.0021396214, y: -0.0030443347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_9
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 504
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.00090350525, y: 0.00057488517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 504
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: -0.005859375, y: 0.00057488517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 36
+        height: 37
+      alignment: 9
+      pivot: {x: 0.005299568, y: 0.0041932804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 464
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.000574679, y: -0.0030443347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 464
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: -0.00118321, y: 0.00057488517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 464
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: -0.00118321, y: 0.0041932804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 464
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: -0.0050092423, y: 0.00057488517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: -0.00037785582, y: -0.00037825736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 464
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: -0.00037785582, y: -0.00037825736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 464
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: -0.00037745424, y: -0.00037825736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 464
+        width: 39
+        height: 38
+      alignment: 9
+      pivot: {x: -0.0012817383, y: -0.00037825736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_20
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 463
+        width: 41
+        height: 38
+      alignment: 9
+      pivot: {x: 0.00030964176, y: -0.00037745424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 424
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 424
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_59
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 363
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 364
+        width: 29
+        height: 46
+      alignment: 9
+      pivot: {x: -0.0024502196, y: 0.0010296366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 365
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.0019964022, y: 0.00032875754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_62
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 367
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: -0.002449825, y: -0.00006401248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_63
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 370
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: -0.002450088, y: 0.0016355772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 371
+        width: 29
+        height: 36
+      alignment: 9
+      pivot: {x: -0.00022677718, y: 0.00032891167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_65
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 370
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: -0.0024503511, y: -0.00010639912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_66
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 366
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: -0.00022677718, y: -0.00006401248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_67
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 364
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: -0.00022677718, y: 0.0017942949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_76
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 293
+        width: 34
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 41
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 198
+        width: 47
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_87
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 198
+        width: 47
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_88
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 197
+        width: 48
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_89
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 196
+        width: 48
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_90
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 194
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_91
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 48
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_92
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 94
+        width: 47
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_93
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 94
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 98
+        width: 48
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_95
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 103
+        width: 48
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 48
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 107
+        width: 48
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_98
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 109
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_99
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 113
+        width: 48
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_102
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 91
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 48
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_104
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 22
+        width: 48
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_105
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 25
+        width: 48
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_106
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 54
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_107
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_111
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 23
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_112
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_113
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 52
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_116
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 35
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_117
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_119
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 33
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_120
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 27
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_125
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_127
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_143
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_183
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_184
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_185
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_186
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_187
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_188
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_189
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_198
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_200
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 560
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.0011669027, y: 0.0002029419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_201
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 560
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.0011075776, y: 0.00017547607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_202
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 558
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: -0.0008201599, y: 0.0015563965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_203
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 558
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: -0.0008201599, y: 0.00014822824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_204
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 558
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: -0.00019779912, y: 0.00016276042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_205
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 558
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: -0.00044092638, y: 0.00016276042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_206
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 558
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: 0.0005264282, y: -0.00048682804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_207
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 558
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: -0.0014309353, y: -0.0002572196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_208
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 558
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.00042527722, y: -0.0010405041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_209
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 362
+        width: 28
+        height: 49
+      alignment: 9
+      pivot: {x: -0.0019734162, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 300
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: 0.0014065619, y: -0.002332306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 300
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: -0.00047905213, y: -0.0050697327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 300
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: -0.0040797573, y: 0.00051116943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 300
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: -0.00047892908, y: -0.0022789002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 300
+        width: 31
+        height: 40
+      alignment: 9
+      pivot: {x: -0.00047892908, y: -0.0022789002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 300
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 39
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: metalslug_personagem_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 324
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

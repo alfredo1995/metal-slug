@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SCRIPTS\CLASSEPAI_HERO.cs">
+    <Files>
+      <File FileName="Assets\SCRIPTS\BarraVidaVilao.cs" Line="100" Column="18" />
+      <File FileName="Assets\SCRIPTS\MoveBala.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\CameraSegue.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\JoyControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\GAMEMANAGER.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\HeroControll.cs" Line="49" Column="31" />
+      <File FileName="Assets\SCRIPTS\CLASSEPAI_HERO.cs" Line="134" Column="15" />
+      <File FileName="Assets\SCRIPTS\VeiculoControll.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\CriaCX_Quebrada.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\VilaoControll.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
