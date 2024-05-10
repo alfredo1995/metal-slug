@@ -8,9 +8,7 @@ The game also has its style of humor that makes even enemy deaths a little comic
 
 Implemented the use of Object Pooling (creation design pattern) to optimize my project and deal with markers that are being instantiated frequently.
 
-[![YouTube Video](https://img.youtube.com/vi/h8MQYopqbPw/0.jpg)](https://www.youtube.com/watch?v=h8MQYopqbPw)
-
- 
+ https://www.youtube.com/watch?v=GHVmsp9hTUI&t=182s
  
  
    
