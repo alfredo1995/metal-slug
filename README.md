@@ -1,5 +1,3 @@
-# MetalSlug
-
 Recreated the classic arcade action game (Metal Slug) in 2D style (Run and Gun) developed in the Unity Engine.
 
     This game is capable of storing and displaying a lot of information simultaneously. Lots of animations, exaggerated explosions, lots of on-screen elements and big enemies.
@@ -19,7 +17,7 @@ Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma 
     Vou fornecer um exemplo de como foi usado o Git LFS para a pasta "Libary" e "Assets" nesse projeto, 
     juntamente com um exemplo de texto, instruindo as pessoas a instalarem as bibliotecas necessárias e configurarem a pasta "Libary" e "Assets". 
 
-1° Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente. 
+Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente. 
 
     //Inicializar o Git LFS
     git lfs install 
@@ -28,7 +26,7 @@ Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma 
     git lfs track "libary/*" 
     git lfs track "Assets/*"
     
-2° Este é o meu projeto incrível que requer algumas bibliotecas para funcionar corretamente. Siga as etapas abaixo:
+Este é o meu projeto incrível que requer algumas bibliotecas para funcionar corretamente. Siga as etapas abaixo:
 
     ## Pré-requisitos
 
