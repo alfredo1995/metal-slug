@@ -22,7 +22,7 @@ Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets"
     //Inicializar o Git LFS
     git lfs install 
 
-    //Rastrear a pasta "Library" e "assets"
+    //Rastrear a pasta "Library" e "assets" 
     git lfs track "libary/*" 
     git lfs track "Assets/*"
     
