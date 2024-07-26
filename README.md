@@ -1,7 +1,3 @@
-https://github.com/user-attachments/assets/ccda8d02-9369-4b14-9e1c-9a24c9b76c23
-
-
-
 Recreated the classic arcade action game (Metal Slug) in 2D style (Run and Gun) developed in the Unity Engine.
 
     This game is capable of storing and displaying a lot of information simultaneously. Lots of animations, exaggerated explosions, lots of on-screen elements and big enemies.
@@ -55,6 +51,7 @@ Este é o meu projeto incrível que requer algumas bibliotecas para funcionar co
     Isso é tudo! Repita o procedimento para a pasta "Assets"
     
     
+https://github.com/user-attachments/assets/ccda8d02-9369-4b14-9e1c-9a24c9b76c23
 
  
  
