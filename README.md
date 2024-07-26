@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=bd7nHyCLWWs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bd7nHyCLWWs?si=yvA8dubxOqR2__lV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Recreated the classic arcade action game (Metal Slug) in 2D style (Run and Gun) developed in the Unity Engine.
 
