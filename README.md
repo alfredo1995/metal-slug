@@ -27,7 +27,7 @@ Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets"
     git lfs track "libary/*" 
     git lfs track "Assets/*" 
     
-Este é o meu projeto incrível que requer algumas bibliotecas para funcionar corretamente. Siga as etapas abaixo:
+Este é o meu projeto requer algumas bibliotecas para funcionar corretamente. Siga as etapas abaixo:
 
     ## Pré-requisitos
 
