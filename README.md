@@ -1,5 +1,4 @@
 
-![1GIF](https://github.com/user-attachments/assets/7011487a-68e9-4bb0-ae15-d526f05dc070)
 ![2GIF](https://github.com/user-attachments/assets/44a204fe-d5d3-4197-9913-408baa83fd47)
 ![3GIF](https://github.com/user-attachments/assets/95e95993-d273-4636-a482-7f6873fa7496)
 
