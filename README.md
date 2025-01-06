@@ -1,7 +1,3 @@
-
-![2GIF](https://github.com/user-attachments/assets/44a204fe-d5d3-4197-9913-408baa83fd47)
-![3GIF](https://github.com/user-attachments/assets/95e95993-d273-4636-a482-7f6873fa7496)
-
 https://github.com/user-attachments/assets/ccda8d02-9369-4b14-9e1c-9a24c9b76c23
 
 
