@@ -15,8 +15,6 @@ Git LFS was configured to track files in the "library" and "assets" folders and 
     
 This project requires some libraries to function correctly. Follow the steps below:
 
-Prerequisites
-
     Make sure you have the following libraries installed on your system:
 
     - Biblioteca Assets
