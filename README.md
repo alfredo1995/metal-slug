@@ -12,7 +12,8 @@ NOTE: When uploading all the files for this project, the file size limit set by 
     Git LFS is a Git extension that allows you to store large files on external servers, such as Git LFS itself or cloud storage services.
 
 I will provide an example of how Git LFS was used for the "Library" and "Assets" folders in this project, along with a sample text instructing people on how to install the necessary libraries and configure the "Library" and "Assets" folders.
-Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente. 
+
+Git LFS was configured to track files in the "library" and "assets" folders and store them externally.
 
     //Inicializar o Git LFS
     git lfs install 
