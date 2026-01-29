@@ -23,20 +23,20 @@ Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets"
     
 This project requires some libraries to function correctly. Follow the steps below:
 
-    ## Prerequisites
+Prerequisites
 
     Make sure you have the following libraries installed on your system:
 
     - Biblioteca Assets
     - Biblioteca Libary
 
-    ## Folder configuration "Libary"
+Folder configuration "Libary"
 
     1. Clone this repository to your system.
     2. Navigate to the project's "library" folder: `cd Library`.
     3. Install the dependencies in the "library" folder by running the following command: `npm install` (or use the appropriate package manager).
 
-    ## Running the project
+Running the project
 
     Now that you have installed the necessary libraries and configured the "Library" folder, you are ready to run the project. Follow the steps below:
 
