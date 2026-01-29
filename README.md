@@ -5,8 +5,8 @@ Recreated the classic arcade action game (Metal Slug) in 2D style (Run and Gun) 
 
     This game is capable of storing and displaying a lot of information simultaneously. Lots of animations, exaggerated explosions, lots of on-screen elements and big enemies.
  
-NOTE: When uploading all the files for this project, the file size limit set by GitHub was exceeded. GitHub imposes a file size limit of 100 MB for Git repositories.
- 
+NOTE: The 100 MB file size limit set by GitHub has been exceeded for this project.
+
     To solve this problem, I used Git LFS (Git Large File Storage):
 
 Git LFS was configured to track files in the "library" and "assets" folders and store them externally.
@@ -29,11 +29,9 @@ Folder configuration "Libary"
 
     1. Clone this repository to your system.
     2. Navigate to the project's "library" folder: `cd Library`.
-    3. Install the dependencies in the "library" folder by running the following command: `npm install` (or use the appropriate package manager).
+    3. Install the dependencies in the "library" folder by running the command: `npm install`.
 
 Running the project
-
-    Now that you have installed the necessary libraries and configured the "Library" folder, you are ready to run the project. Follow the steps below:
 
     1. Open the terminal and navigate to the project root.
     2. Run the command `npm start` to start the project.
