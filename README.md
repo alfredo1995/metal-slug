@@ -4,10 +4,6 @@ https://github.com/user-attachments/assets/ccda8d02-9369-4b14-9e1c-9a24c9b76c23
 Recreated the classic arcade action game (Metal Slug) in 2D style (Run and Gun) developed in the Unity Engine.
 
     This game is capable of storing and displaying a lot of information simultaneously. Lots of animations, exaggerated explosions, lots of on-screen elements and big enemies.
-
-    The game also has its style of humor that makes even enemy deaths a little comical.
-
-    Implemented the use of Object Pooling (creation design pattern) to optimize my project and deal with markers that are being instantiated frequently.
  
 NOTE: When uploading all the files for this project, the file size limit set by GitHub was exceeded. GitHub imposes a file size limit of 100 MB for Git repositories.
  
@@ -25,29 +21,29 @@ Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets"
     git lfs track "libary/*" 
     git lfs track "Assets/*" 
     
-Este é o meu projeto requer algumas bibliotecas para funcionar corretamente. Siga as etapas abaixo:
+This project requires some libraries to function correctly. Follow the steps below:
 
-    ## Pré-requisitos
+    ## Prerequisites
 
-    Certifique-se de ter as seguintes bibliotecas instaladas em seu sistema:
+    Make sure you have the following libraries installed on your system:
 
     - Biblioteca Assets
     - Biblioteca Libary
 
-    ## Configuração da pasta "Libary"
+    ## Folder configuration "Libary"
 
-    1. Clone este repositório em seu sistema.
-    2. Navegue até a pasta "libary" do projeto: `cd Libary`.
-    3. Instale as dependências da pasta "libary" executando o seguinte comando: `npm install` (ou use o gerenciador de pacotes apropriado).
+    1. Clone this repository to your system.
+    2. Navigate to the project's "library" folder: `cd Library`.
+    3. Install the dependencies in the "library" folder by running the following command: `npm install` (or use the appropriate package manager).
 
-    ## Executando o projeto
+    ## Running the project
 
-    Agora que você instalou as bibliotecas necessárias e configurou a pasta "Libary", você está pronto para executar o projeto. Siga as etapas abaixo:
+    Now that you have installed the necessary libraries and configured the "Library" folder, you are ready to run the project. Follow the steps below:
 
-    1. Abra o terminal e navegue até a raiz do projeto.
-    2. Execute o comando `npm start` para iniciar o projeto.
+    1. Open the terminal and navigate to the project root.
+    2. Run the command `npm start` to start the project.
 
-    Isso é tudo! Repita o procedimento para a pasta "Assets"
+    Repeat the procedure for the "Assets" folder.
     
 
  
