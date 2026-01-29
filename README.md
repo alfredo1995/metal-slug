@@ -9,15 +9,13 @@ Recreated the classic arcade action game (Metal Slug) in 2D style (Run and Gun) 
 
     Implemented the use of Object Pooling (creation design pattern) to optimize my project and deal with markers that are being instantiated frequently.
  
-OBS: Ao enviar todo os arquivos desse projeto, acabou excedendo o limite de tamanho de arquivo definido pelo GitHub. O GitHub impõe um limite de tamanho de arquivo de 100 MB para repositórios Git.
+NOTE: When uploading all the files for this project, the file size limit set by GitHub was exceeded. GitHub imposes a file size limit of 100 MB for Git repositories.
  
-    Para resolver esse problema, usei o Git LFS (Git Large File Storage):  
-    O Git LFS é uma extensão do Git que permite armazenar 
-    arquivos grandes em servidores externos, como o próprio Git LFS ou serviços de armazenamento em nuvem. 
+    To solve this problem, I used Git LFS (Git Large File Storage):
 
-    Vou fornecer um exemplo de como foi usado o Git LFS para a pasta "Libary" e "Assets" nesse projeto, 
-    juntamente com um exemplo de texto, instruindo as pessoas a instalarem as bibliotecas necessárias e configurarem a pasta "Libary" e "Assets". 
+    Git LFS is a Git extension that allows you to store large files on external servers, such as Git LFS itself or cloud storage services.
 
+I will provide an example of how Git LFS was used for the "Library" and "Assets" folders in this project, along with a sample text instructing people on how to install the necessary libraries and configure the "Library" and "Assets" folders.
 Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente. 
 
     //Inicializar o Git LFS
