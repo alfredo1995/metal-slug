@@ -9,14 +9,10 @@ NOTE: When uploading all the files for this project, the file size limit set by 
  
     To solve this problem, I used Git LFS (Git Large File Storage):
 
-I will provide an example of how Git LFS was used for the "Library" and "Assets" folders in this project, along with a sample text instructing people on how to install the necessary libraries and configure the "Library" and "Assets" folders.
-
 Git LFS was configured to track files in the "library" and "assets" folders and store them externally.
 
-    //Inicializar o Git LFS
     git lfs install 
 
-    //Rastrear a pasta "Library" e "assets" 
     git lfs track "libary/*" 
     git lfs track "Assets/*" 
     
@@ -42,7 +38,7 @@ Running the project
     1. Open the terminal and navigate to the project root.
     2. Run the command `npm start` to start the project.
 
-    Repeat the procedure for the "Assets" folder.
+Repeat the procedure for the "Assets" folder.
     
 
  
